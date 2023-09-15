@@ -1,5 +1,5 @@
 # Retrieval Augmented Generation
-Code implementing Retrieval Augmented Generation using LLaMA2 Open Source LLM model.
+Code implementing Retrieval Augmented Generation using the LLaMA2 Open Source LLM model.
 
 The IPYNB Notebook can be run in Google Colab using the free T4 GPU (be sure to select GPU option in Notebook Settings in Colab). 
 
